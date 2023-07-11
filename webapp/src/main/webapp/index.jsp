@@ -12,6 +12,10 @@
     <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
 
+    <label for="phone"><b>Phone</b></label>
+    <input type="text" placeholder="Phone" name="phone" id="phone" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
